@@ -1,0 +1,28 @@
+<ion-header [translucent]="true">
+  <ion-toolbar  class="new-background-color">
+    <ion-title style="text-align: center;">
+      Check WIFI
+      <ion-icon name="wifi-outline"></ion-icon>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div id="container">
+    <ion-button color="primary" (click)="checkWifi()">wifi</ion-button>
+    <div>
+      <ion-grid>
+        <ion-row>
+          <ion-col size="6">Latitude</ion-col>
+          <ion-col size="6">{{latitude}}</ion-col>
+          <ion-col size="6">Longitude</ion-col>
+          <ion-col size="6">{{longitude}}</ion-col>
+          <ion-col size="6">SSID</ion-col>
+          <ion-col size="6">{{ssid}}</ion-col>
+          <ion-col size="6">BSSID</ion-col>
+          <ion-col size="6">{{bssid}}</ion-col>
+        </ion-row>
+      </ion-grid>
+    </div>
+  </div>
+</ion-content>

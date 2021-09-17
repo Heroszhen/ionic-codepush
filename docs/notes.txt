@@ -1,0 +1,2 @@
+WifiWizard2
+https://ionicframework.com/docs/native/wifi-wizard-2

@@ -1,0 +1,7 @@
+{
+  "name": "ionic-codepush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
