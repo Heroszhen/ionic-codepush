@@ -9,5 +9,10 @@
       "launchShowDuration": 0
     }
   },
-  "cordova": {}
+  "cordova": {},
+  "CodePush": {
+    "ANDROID_DEPLOY_KEY": "0QjuTCda9T1LkOOp0Obn6VN5hfbcOX3FgNSKZ",
+    "ANDROID_PUBLIC_KEY": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv3fj00hnHfNMKb1RiJOrK3ROoqdBqW1uM+7OTOBHJ2sEk8LB4Xk57BAxyjPvrm+Qri3Ta14Ap5iOHrUzxs3IXeGO1LKWzT+/5fckCUTYzv8Y2ibTenx1S7it+xiVGQnu1oxVMKSkb38IV16dxszK1W66+2Cp4KaCGP8VCo9hjsv+ypxCD0MFOQq+oF0q2GiYO1Z0TXWGhQQoVIVUmctcTjGtr3v22P2cGwFk74ZJq9kTjr3YRWWFok8k8zj6T/K8ihkUNxQURZfxjTT8TmNQkaXPLFl+rhzgaeSZm5zZgFribK3Wwj6r64VDZJKcfPkGZbBMLAHm9jpA51I1uBpl",
+    "SERVER_URL": "https://codepush.appcenter.ms/"
+  }
 }

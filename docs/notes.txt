@@ -1,2 +1,12 @@
 WifiWizard2
 https://ionicframework.com/docs/native/wifi-wizard-2
+
+
+https://tolutronics.medium.com/implementing-code-push-in-capacitor-3-x-applications-22bd6a204a04
+https://docs.microsoft.com/en-us/appcenter/distribution/codepush/
+
+https://docs.microsoft.com/fr-fr/appcenter/distribution/codepush/cli
+appcenter codepush deployment add -a herosgogogogo-gmail.com/ioniccodepush Staging
+Deployment Staging has been created for herosgogogogo-gmail.com/ioniccodepush with key 0QjuTCda9T1LkOOp0Obn6VN5hfbcOX3FgNSKZ
+appcenter codepush deployment list --app herosgogogogo-gmail.com/ioniccodepush --displayKeys
+
